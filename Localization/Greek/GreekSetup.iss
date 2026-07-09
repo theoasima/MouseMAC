@@ -2,19 +2,19 @@
 ; InstallType
 greek.InstallType=Επιλογή τύπου εγκατάστασης
 ; InstallTypeDescription
-greek.InstallTypeDescription=You can install standard or portable version of {#AppName}
+greek.InstallTypeDescription=Μπορείτε να εγκαταστήσετε την τυπική ή τη φορητή έκδοση του {#AppName}
 
 ; AllUserRadioButton
 greek.AllUserRadioButton=Εγκατάσταση στο Program Files
 ; AllUserDescLabel
-greek.AllUserDescLabel=Administrator access required.%nThe program will be installed to all users
+greek.AllUserDescLabel=Απαιτούνται δικαιώματα διαχειριστή.%nΤο πρόγραμμα θα εγκατασταθεί για όλους τους χρήστες
 
 ; JustForMeRadioButton
 greek.JustForMeRadioButton=Εγκατάσταση στο AppData
 ; JustForMeDescLabel
-greek.JustForMeDescLabel=No Administrator access required.%nThe program will be installed to current user only
+greek.JustForMeDescLabel=Δεν απαιτούνται δικαιώματα διαχειριστή.%nΤο πρόγραμμα θα εγκατασταθεί μόνο για τον τρέχοντα χρήστη
 
 ; PortableRadioButton
 greek.PortableRadioButton=Φορητή εγκατάσταση
 ; PortableDescLabel
-greek.PortableDescLabel=Places the program to the selected folder
+greek.PortableDescLabel=Τοποθετεί το πρόγραμμα στον επιλεγμένο φάκελο
