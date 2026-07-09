@@ -1,13 +1,13 @@
 STRINGTABLE
 LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 {
-0, "English"
+0, "Greek"
 1, "MouseMAC"
-2, "Settings:"
+2, "Ρυθμίσεις:"
 3, "&Enabled"
 4, "Enabled"
 5, "Disabled"
-6, "&Autostart with Windows"
+6, "&Αυτόματη ένραξη με τα Windows"
 7, "&Invert scrolling"
 8, "&Mouse settings"
 9, "E&xit"
