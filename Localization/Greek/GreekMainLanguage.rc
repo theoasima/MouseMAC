@@ -1,0 +1,40 @@
+STRINGTABLE
+LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
+{
+0, "English"
+1, "MouseMAC"
+2, "Settings:"
+3, "&Enabled"
+4, "Enabled"
+5, "Disabled"
+6, "&Autostart with Windows"
+7, "&Invert scrolling"
+8, "&Mouse settings"
+9, "E&xit"
+10, "Version"
+11, "Mouse MAC &website"
+12, "http://mousemac.tarasovlabs.com"
+
+22, "Listbox smooth scrolling"
+
+30, "&Horizontal scrolling with \nthe Shift key"
+31, "Scroll &sensitivity setting"
+
+40, "https://mousemac.tarasovlabs.com/update.uurl"
+41, "Automatic &updates"
+42, "Turn &on automatic updates"
+43, "Ch&eck for Updates"
+44, "New version of %0:s is available\nClick here for more details"
+45, "Update successful\nThe new version is %0:s"
+46, "Update failed\nClick here to visit the website"
+
+150, "&Language"
+151, "&Default"
+
+300, "Sensitivity setting"
+301, "Vertical scroll"
+302, "Horizontal scroll"
+303, "Reset to default"
+
+224, "Li&cense"
+}
